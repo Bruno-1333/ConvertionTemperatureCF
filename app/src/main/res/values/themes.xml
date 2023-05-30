@@ -13,4 +13,15 @@
         <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
     </style>
+
+    <style name = "Button.Convertion" parent = "Widget.AppCompat.Button.Colored">
+
+        <palette>
+            <color name="Amber" hex="ffbe0b" r="255" g="190" b="11" />
+            <color name="Orange (Pantone)" hex="fb5607" r="251" g="86" b="7" />
+            <color name="Rose" hex="ff006e" r="255" g="0" b="110" />
+            <color name="Blue Violet" hex="8338ec" r="131" g="56" b="236" />
+            <color name="Azure" hex="3a86ff" r="58" g="134" b="255" />
+        </palette>
+    </style>
 </resources>
